@@ -9,7 +9,6 @@
 ## 리액트
 - [아토믹 디자인](https://github.com/suhyang-lee/study-with-me/blob/main/atomic.md)
 ## 컴퓨터공학 지식
+## JS로 준비하는 알고리즘
+## 알고리즘을 위한 JS 문법
 ## 프론트엔드 면접 질문
-
-
-
